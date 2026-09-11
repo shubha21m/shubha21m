@@ -79,11 +79,6 @@ Feel free to reach out to discuss DevOps, cloud infrastructure, or anything tech
 
 ---
 
-### ⚙️ GitHub Stats
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubha21m&show_icons=true&theme=radical)
-
----
-
 ### 🛠️ Tools & Technologies
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
