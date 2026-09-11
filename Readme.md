@@ -40,6 +40,8 @@ Building GCP infrastructure, GitOps pipelines, and data platforms for regulated 
 
 **Practices**: SRE, GitOps, DevSecOps, FinOps, Progressive Delivery, Incident Management, Change Management, Audit-readiness
 
+**Generative AI**: Gemini Enterprise (Deployment & Agent Development), Vertex AI, Kubeflow, ML inference pipelines
+
 ---
 
 ### ⚡ What I Do
@@ -63,6 +65,8 @@ Building GCP infrastructure, GitOps pipelines, and data platforms for regulated 
 - AWS — AWS Well-Architected Proficient
 - GCP — Implement Load Balancing on Compute Engine
 - GCP — Set Up an App Dev Environment on Google Cloud
+- Google Cloud — Gemini Enterprise Deployment
+- Google Cloud — Gemini Enterprise Agent Development
 
 ---
 
@@ -87,6 +91,7 @@ Feel free to reach out to discuss DevOps, cloud infrastructure, or anything tech
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_Enterprise-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
